@@ -2,7 +2,7 @@
 ## Author Rick Mansfield 
 - Full Stack Web Dev & Computer Science Engineer 
 - [My Portfolio Link](https://rickmansfield.github.io/PortfolioWRM2021v2/)
-## [GO TO THE LIVE SITE](https://front-end-git-styling-add-view-events-37a717-potluck-planner-8.vercel.app/)
+## [GO TO THE LIVE SITE](https://front-end-pearl-eight.vercel.app/)
 ![image](https://barelyadventist.com/wp-content/uploads/2019/01/potluck-clipart-dish-chinese-5.jpg)
 
 
